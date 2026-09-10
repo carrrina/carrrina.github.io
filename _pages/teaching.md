@@ -8,11 +8,11 @@ nav_order: 6
 calendar: false
 ---
 
-# 2026-2027
+## 2026-2027
 
-## LIFPCA - _Programmation concurrente et administration système_ (Concurrent Programming and System Administration)
+### LIFPCA - _Programmation concurrente et administration système_ (Concurrent Programming and System Administration)
 
-Spring semester, 3rd year Bachelor's @ Univ. Claude Bernard Lyon 1.
+Spring semester, 3rd year Bachelor's, at Université Claude Bernard Lyon 1.
 
 Led tutorials (_Travaux Dirigés_) and graded papers.
 
