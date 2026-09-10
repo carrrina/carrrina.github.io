@@ -9,7 +9,7 @@ profile:
   image: portrait-bw.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>carina.deaconu [at] ens-lyon.fr</p>
+    <p>middle_name.last_name[at]ens-lyon.fr</p>
     <p>46 Allée d'Italie M7.301</p>
     <p>69007 Lyon, France</p>
 
