@@ -31,4 +31,6 @@ Hello! I am currently a PhD student in the [HoWNeT](https://www.ens-lyon.fr/LIP/
 
 My research subject is the **Analysis and Optimization of Energy Consumption in Wi-Fi Networks**, particularly analyzing the TWT (Target Wake Time) mechanism, introduced in Wi-Fi 6.
 
+I also volunteer as the Web Track Lead of the [Security Summer School](https://security.cs.pub.ro/summer-school/wiki/), organized every year in a hybrid regime by the POLITEHNICA University of Bucharest, Romania.
+
 I have obtained a Bachelor's in Computer Science and a Master's degree in the **Security of Complex Networks** from the POLITEHNICA University of Bucharest, Romania.
