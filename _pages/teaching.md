@@ -11,9 +11,9 @@ nav_order: 1
 
 - [Security Summer School](https://security.cs.pub.ro/summer-school/wiki/), powered every year by the POLITEHNICA University of Bucharest, Romania.
 
-I am the lead of the Web Track, which involves holding sessions, creating and maintaining content, and the general organization and management of the track.
+I am the lead of the Web Track, which involves facilitating teaching sessions, creating and updating content, and the general organization and management of the track.
 
-### 2026-2027
+### 2025-2026
 
 - **LIFPCA - _Programmation concurrente et administration système_ (Concurrent Programming and System Administration)**
 

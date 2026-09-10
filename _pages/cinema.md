@@ -7,7 +7,7 @@ nav: false
 
 I like cinema and going to the movies.
 
-Sometimes I write movie reviews in [La Jetée Journal](https://lajeteejournal.com/), an independent, digital French cinema magazine, founded by French cinema students.
+Sometimes I write movie reviews in [La Jetée Journal](https://lajeteejournal.com/), an independent, digital cinema magazine founded by film students.
 
 You can check out my articles here (the language is French):
 - [La Grazia](https://lajeteejournal.com/2026/03/02/la-grazia/) movie review
