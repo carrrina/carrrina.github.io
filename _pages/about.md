@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>carina.deaconu [at] ens-lyon.fr</p>
-    <p>46 Allée d'Italie</p>
+    <p>46 Allée d'Italie M7.301</p>
     <p>69007 Lyon, France</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -33,6 +33,6 @@ My research topic is the **Analysis and Optimization of Energy Consumption in Wi
 
 I also volunteer as the Web Track Lead of the [Security Summer School](https://security.cs.pub.ro/summer-school/wiki/), organized every year in a hybrid regime by the POLITEHNICA University of Bucharest, Romania.
 
-I have obtained a Bachelor's in Computer Science and a Master's degree in the **Security of Complex Networks** from the POLITEHNICA University of Bucharest, Romania.
+Before my PhD, I have worked as a Software Engineer in the industry, both employed and as a freelancer. I have obtained a Bachelor's in Computer Science and a Master's degree in the **Security of Complex Networks** from the POLITEHNICA University of Bucharest, Romania.
 
 I have presented my Master dissertation findings at [DefCamp 2023](https://def.camp/speaker/carina-deaconu/).
