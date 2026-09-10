@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: # Classes I taught.
+description: A list of tech talks I have given.
 nav: true
 nav_order: 2
 ---
