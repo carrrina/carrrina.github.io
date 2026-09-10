@@ -13,12 +13,11 @@ cv:
     Education:
       - institution: Université Claude Bernard Lyon 1
         area: Analysis and Optimization of Energy Consumption in Wi-Fi Networks
-        studyType: PhD
+        studyType: PhD Student
         start_date: 2025
         end_date: Present
 
       - institution: POLITEHNICA University of Bucharest
-        area: Security of Complex Network
         studyType: Master Degree - Security of Complex Networks
         start_date: 2021
         end_date: 2023
@@ -31,29 +30,19 @@ cv:
     Experience:
       - company: Pentest-Tools.com
         position: Software Engineer
-        # location: Bucharest, Romania
         start_date: 2020
         end_date: 2025
-        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
       - company: DeNePlagiat.ro
         position: Software Engineer Full Stack
-        # location: Remote
         start_date: 2020
         end_date: 2023
-        # summary: Full development, deployment and maintenance of the website, from zero to hero.
-        highlights: Full development, deployment and maintenance of the website, from zero to hero.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
+        highlights:
+          - Full development, deployment and maintenance of the website, from zero to hero.
 
     Volunteer:
       - company: Security Summer School
         position: Web Track Lead
-        # location: Hybrid
         start_date: 2020
         end_date: Present
         # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
@@ -102,12 +91,6 @@ cv:
     #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    # Skills:
-    #   - name: Physics
-    #     level: Master
-    #     icon: fa-solid fa-hashtag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
     Languages:
       - name: Romanian
         summary: "Native"
@@ -120,11 +103,6 @@ cv:
 
       - name: Portuguese
         summary: "A1"
-
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     # Certificates:
     #   - name: Machine Learning
@@ -141,21 +119,3 @@ cv:
     #     date: 2018-01-01
     #     issuer: Stanford University
     #     icon: fa-solid fa-envelope
-
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
