@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Amor fati_.
+# subtitle: _Amor fati_.
 
 profile:
   align: right
-  image: portrait.png
+  image: portrait-bw.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>carina.deaconu [at] ens-lyon.fr</p>
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am currently a PhD student in the [HoWNeT](https://www.ens-lyon.fr/LIP/HOWNET/) team of the [LIP][https://www.ens-lyon.fr/LIP/] laboratory, hosted by _École Normale Supérieure de Lyon_, in France.
+Hello! I am currently a PhD student in the [HoWNeT](https://www.ens-lyon.fr/LIP/HOWNET/) team of the [LIP](https://www.ens-lyon.fr/LIP/) laboratory, hosted by _École Normale Supérieure de Lyon_, in France.
 
-My thesis subject is the **Analysis and Optimization of Energy Consumption in Wi-Fi Networks**, in particular analyzing the TWT (Target Wake Time) mechanism, introduced in Wi-Fi 6.
+My research subject is the **Analysis and Optimization of Energy Consumption in Wi-Fi Networks**, particularly analyzing the TWT (Target Wake Time) mechanism, introduced in Wi-Fi 6.
+
+I have obtained a Bachelor's in Computer Science and a Master's degree in the **Security of Complex Networks** from the POLITEHNICA University of Bucharest, Romania.
