@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://acdeaconu.com/sitemap.xml
+Sitemap: https://acdeaconu.com/sitemap.xml
