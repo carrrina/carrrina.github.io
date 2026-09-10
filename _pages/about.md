@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am currently a PhD student in the [HoWNeT](https://www.ens-lyon.fr/LIP/HOWNET/) team of the [LIP](https://www.ens-lyon.fr/LIP/) laboratory, hosted by _École Normale Supérieure de Lyon_, in France.
+Hello! I am currently a PhD student in the [HoWNeT](https://www.ens-lyon.fr/LIP/HOWNET/) team of the [LIP](https://www.ens-lyon.fr/LIP/) laboratory, hosted by _École Normale Supérieure de Lyon_, in France, supervised by Thomas Begin.
 
 My research subject is the **Analysis and Optimization of Energy Consumption in Wi-Fi Networks**, particularly analyzing the TWT (Target Wake Time) mechanism, introduced in Wi-Fi 6.
 
