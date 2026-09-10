@@ -9,7 +9,7 @@ profile:
   image: portrait-bw.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>middle_name.last_name[at]ens-lyon.fr</p>
+    <p>middlename.lastname[at]ens-lyon.fr</p>
     <p>46 Allée d'Italie M7.301</p>
     <p>69007 Lyon, France</p>
 
@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  # limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
