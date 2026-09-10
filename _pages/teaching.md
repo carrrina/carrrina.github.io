@@ -5,18 +5,18 @@ title: teaching
 description: # Classes I taught.
 nav: true
 nav_order: 6
-calendar: false
 ---
 
-## 2026-2027
+### 2020-Present
 
-#### LIFPCA - _Programmation concurrente et administration système_ (Concurrent Programming and System Administration)
+[Security Summer School](https://security.cs.pub.ro/summer-school/wiki/), powered every year by the POLITEHNICA University of Bucharest, Romania.
+
+I am the lead of the Web Track, which involves holding sessions, creating and maintaining content, and the general organization and management of the track.
+
+### 2026-2027
+
+**LIFPCA - _Programmation concurrente et administration système_ (Concurrent Programming and System Administration)**
 
 Spring semester, 3rd year Bachelor's, at Université Claude Bernard Lyon 1.
+
 I led tutorials (_Travaux Dirigés_) I and graded papers.
-
-<!-- This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics. -->
-
-<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
-
-<!-- {% include courses.liquid %} -->
