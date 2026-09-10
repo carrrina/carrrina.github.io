@@ -10,6 +10,29 @@ cv:
       username: carina-deaconu
 
   sections:
+    Experience:
+      - company: Pentest-Tools.com
+        position: Software Engineer
+        start_date: 2020
+        end_date: 2025
+
+      - company: DeNePlagiat.ro
+        position: Software Engineer Full Stack
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - Full development, deployment and maintenance of the website, from zero to hero.
+
+    Volunteer:
+      - company: Volunteering - Security Summer School
+        position: Web Track Lead
+        start_date: 2020
+        end_date: Present
+        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        # highlights:
+        #   - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+        #   - "Men of the year 2014 by Time magazine"
+    
     Education:
       - institution: Université Claude Bernard Lyon 1
         area: Analysis and Optimization of Energy Consumption in Wi-Fi Networks
@@ -26,29 +49,6 @@ cv:
         studyType: Bachelor Degree - Computer Science
         start_date: 2017
         end_date: 2021
-
-    Experience:
-      - company: Pentest-Tools.com
-        position: Software Engineer
-        start_date: 2020
-        end_date: 2025
-
-      - company: DeNePlagiat.ro
-        position: Software Engineer Full Stack
-        start_date: 2020
-        end_date: 2023
-        highlights:
-          - Full development, deployment and maintenance of the website, from zero to hero.
-
-    Volunteer:
-      - company: Security Summer School
-        position: Web Track Lead
-        start_date: 2020
-        end_date: Present
-        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        # highlights:
-        #   - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-        #   - "Men of the year 2014 by Time magazine"
 
     # Awards:
     #   - title: Nobel Prize in Physics

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **A Markovian Model for Multi-Station TWT Configuration with General Batch Size Distributions**, has been accepted to the MSWiM 2026 conference.
+Our paper **A Markovian Model for Multi-Station TWT Configuration with General Batch Size Distributions** has been accepted to the MSWiM 2026 conference.

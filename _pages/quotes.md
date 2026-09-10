@@ -8,12 +8,12 @@ description: A collection of quotes I like.
 
 - _Present to inform, not to impress. If you inform, you will impress._ - American computer scientist Fred Brooks
 - _Assumption is the biggest motherfucker._ - **The Adventures of Priscilla, Queen of the Dessert** movie
-- _Un jour j'irai vivre en théorie, parce qu'en théorie, tout se passe bien._ (_One day I will go live in theory. Because in theory everything goes well._) - French humorist Pierre Desproges (?)
+- _Un jour j'irai vivre en théorie, parce qu'en théorie, tout se passe bien._ (_One day I will go live in theory, because in theory, everything goes well._) - French humorist Pierre Desproges (?)
 - _The amount of good things in life depends on your ability to see them._
 - _I do not have time for things that have no soul._ - Charles Bukowski (?)
 - _Creativity is not the possession of some special talent. It's about the willingness to play._ - English actor John Cleese
 - _Education is the ability to listen to almost anything without losing your temper or your self-confidence._ - American poet Robert Frost
-- _A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away_ - Antoine de Saint-Exupéry
+- _A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away_ - French writer and aviator Antoine de Saint-Exupéry
 - _If you have really high ambitious, you achieve great things even if you fail. If you have low ambitions, you achieve nothing even if you suceed._
 - _To observe without evaluating is the highest form of intelligence._ - Indian philosopher Jiddu Krishnamurti
 - _It's not about talent. It's about who can keep going the longest without needing proof of the progress._
