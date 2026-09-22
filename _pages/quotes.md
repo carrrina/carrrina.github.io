@@ -12,6 +12,7 @@ description: A collection of quotes I like.
 - _Education is the ability to listen to almost anything without losing your temper or your self-confidence._ - American poet Robert Frost
 - _To observe without evaluating is the highest form of intelligence._ - Indian philosopher Jiddu Krishnamurti
 - _A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away._ - French writer and aviator Antoine de Saint-Exupéry
+- _Competitions are for horses, not artists._ - Hungarian composer and pianist Béla Bartók
 - _The first step of any meaningful pursuit is to severely underestimate its difficulty._ - computer scientist Sara Hooker
 - _Slow down to gain time._
 - _The amount of good things in life depends on your ability to see them._
