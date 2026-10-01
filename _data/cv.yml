@@ -17,7 +17,7 @@ cv:
         end_date: 2026
         highlights:
           - Concurrent Programming and System Administration course, 3rd-year Bachelor's.
-          - Led tutorials (Travaux Dirigés) and graded papers.
+          - Led tutorials (_Travaux Dirigés_) and graded papers.
 
       - company: Pentest-Tools.com
         position: Software Engineer
@@ -40,7 +40,7 @@ cv:
           - Organizing the school activities.
     
     Education:
-      - institution: Université Claude Bernard Lyon 1
+      - institution: Université Claude Bernard Lyon 1 / ENS de Lyon
         area: Analysis and Optimization of Energy Consumption in Wi-Fi Networks
         studyType: PhD Student
         start_date: 2025
