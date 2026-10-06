@@ -74,9 +74,6 @@ cv:
       - name: French
         summary: "B2"
 
-      - name: Portuguese
-        summary: "A1"
-
     # Certificates:
     #   - name: Machine Learning
     #     date: 2018-01-01
