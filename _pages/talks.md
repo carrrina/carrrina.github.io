@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 - Oct 27, 2026: Conference paper: **A Markovian Model for Multi-Station TWT Configuration with General Batch Size Distributions** at [MSWiM 2026](https://mswimconf.com/2026/program.html). Location: Paris, France. Language: English.

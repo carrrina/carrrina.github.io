@@ -2,9 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: # Classes I taught.
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 ### 2020-Present
